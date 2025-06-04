@@ -15,7 +15,7 @@ import com.example.anrchecking.ui.theme.ANRCheckingTheme
 
 /*
  * 🧾 Definition of ANR:
-ANR (Application Not Responding) is a system error that happens when your app's main thread (UI thread) is too busy and doesn’t respond to the user in time.
+ANR (Application Not Responding) is a system error that happens when our app's main thread (UI thread) is too busy and doesn’t respond to the user in time.
 
 When the app doesn’t respond to touch, clicks, or other actions for a few seconds, Android shows a dialog saying:
 
